@@ -46,7 +46,7 @@ export default function Navbar() {
               transition={{ type: 'spring', stiffness: 400 }}
             >
               <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-transparent bg-clip-text">
-               MobileGuru24
+               MobileGuru24 Sonu
               </span>
               <Flame className="text-orange-500" size={28} />
             </motion.div>
